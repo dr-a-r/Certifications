@@ -7,4 +7,8 @@
 6. [Data Cleaning ](https://www.kaggle.com/learn/certification/dradityarudresh/data-cleaning)
 7. [Intro to AI Ethics](https://www.kaggle.com/learn/certification/dradityarudresh/intro-to-ai-ethics)
 8. [Machine Learning Explainability](https://www.kaggle.com/learn/certification/dradityarudresh/machine-learning-explainability)
-
+9. [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/dradityarudresh/intermediate-machine-learning)
+10. [Feature Engineering](https://www.kaggle.com/learn/certification/dradityarudresh/feature-engineering)
+11. [Intro to Deep Learning](https://www.kaggle.com/learn/certification/dradityarudresh/intro-to-deep-learning)
+12. [Time Series](https://www.kaggle.com/learn/certification/dradityarudresh/time-series)
+13. [Computer Vision](https://www.kaggle.com/learn/certification/dradityarudresh/computer-vision)
