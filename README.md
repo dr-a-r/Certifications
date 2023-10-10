@@ -4,6 +4,8 @@ This is a repository contains my Certificates and Resume.
 - By Dr Aditya Rudresh
 - [Linkedin Profile](https://www.linkedin.com/in/dradityar/)
 
+- [Certificate Links](https://github.com/dr-a-r/Certifications/blob/main/Certificates/Certifications%20Link.md)
+
 ## Contents
 
 1. Certificates 
